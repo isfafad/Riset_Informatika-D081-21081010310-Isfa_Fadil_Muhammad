@@ -1,14 +1,14 @@
-Perbedaan Method dan Methodology dalam paper
-Paper 01 Methodology : 
+Perbedaan Method dan Methodology dalam journal
+Journal 01 Methodology : 
 •	Artikel tersebut tidak hanya memaparkan langkah-langkah teknis atau prosedur (method) untuk melakukan deteksi dini penyakit jantung koroner menggunakan algoritma Light Gradient-Boosting Machine (LightGBM), tetapi juga membahas pendekatan yang lebih luas, termasuk pengolahan dataset yang kompleks (dengan imputasi MICE untuk menangani data yang hilang) dan penggunaan teknik seperti Borderline-SMOTE untuk menangani ketidakseimbangan kelas.
 •	Methodology di sini lebih tepat karena mencakup keseluruhan proses yang lebih kompleks, termasuk pemilihan metode dan justifikasi teoretis untuk setiap langkah yang diambil.
 •	Paper ini tidak hanya menyebutkan metode yang digunakan, tetapi juga memberikan alasan mengapa metode-metode tertentu dipilih. Misalnya, penggunaan Bayesian Optimization dengan Tree-structured Parzen Estimator (TPE) untuk tuning hyperparameters dipilih karena alasan efisiensi dan performanya dalam meningkatkan akurasi algoritma.
 
-Paper 02 Methodology :
+Journal 02 Methodology :
 •	Kompleksitas dan Lingkup Penelitian: Paper ini mencakup lebih dari sekedar penerapan satu teknik atau metode spesifik. Penelitian tersebut menggunakan serangkaian langkah mulai dari preprocessing (augmentasi data menggunakan Conditional GAN), feature selection dengan Swarm Particle Optimization, hingga pengujian model klasifikasi berbasis MobileNetV3. Proses ini tidak hanya mendeskripsikan metode yang digunakan, tetapi juga menjelaskan cara pendekatan tersebut dirancang secara keseluruhan, yang melibatkan beberapa komponen penting.
 •	Penggunaan Teknik Multidisiplin: Penelitian ini menggabungkan deep learning, augmentasi data, dan optimisasi partikel untuk mendeteksi berbagai tahap penyakit bercak daun pada tanaman melati. Penggabungan teknik dari beberapa bidang ini menjelaskan bahwa pendekatannya holistik, menjadikannya sebagai metodologi, bukan sekadar satu set metode terisolasi.
 
-Paper 03 Method :
+Journal 03 Method :
 •	Fokus pada Prosedur Praktis: Ini berfokus pada penerapan teknik secara spesifik, yang sesuai dengan definisi "method", di mana tujuan utamanya adalah melakukan prosedur teknis untuk mendapatkan hasil yang diinginkan tanpa pembahasan teori yang luas.
 •	Ruang Lingkup Terbatas pada Satu Teknik : Fokus utama adalah penerapan learning-to-rank dalam konteks tertentu (yaitu pencarian dalam EMR), dengan langkah-langkah terperinci yang terkait langsung dengan implementasi pendekatan ini. Ini mencerminkan penggunaan "method" karena cakupannya lebih sempit dan spesifik pada implementasi teknik, bukan analisis atau evaluasi luas tentang pendekatan-pendekatan alternatif atau bagaimana teknik-teknik lain dapat terintegrasi dalam kerangka penelitian yang lebih besar.
 
