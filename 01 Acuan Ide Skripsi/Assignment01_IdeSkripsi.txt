@@ -1,0 +1,14 @@
+Disini saya akan menggunakan acuan jurnal-jurnal tersebut untuk mengambil topik algoritma C5.0/ metode Weighted Product yang diimplementasikan kedalam android
+
+Apa itu Algoritma C5.0?
+Algoritma C5.0 adalah algoritma pembelajaran mesin yang digunakan untuk membangun decision tree atau pohon keputusan, 
+yang digunakan untuk tugas klasifikasi. C5.0 adalah versi yang lebih baru dan disempurnakan dari algoritma sebelumnya, 
+yaitu C4.5 yang dikembangkan oleh Ross Quinlan.
+
+Apa itu Weighted Product?
+Metode Weighted Product (WP) adalah salah satu metode dalam pengambilan keputusan multi-kriteria (Multi-Criteria 
+Decision Making atau MCDM). Metode ini digunakan untuk menyelesaikan masalah yang melibatkan beberapa kriteria, 
+di mana setiap kriteria diberi bobot yang menunjukkan tingkat kepentingannya. Dalam metode ini, keputusan dibuat
+berdasarkan produk tertimbang (weighted product) dari setiap alternatif terhadap setiap kriteria.
+
+Perihal studi kasus yang akan diangkat masih dalam tahap perkembangan.
