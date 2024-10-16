@@ -1,4 +1,4 @@
-Perbedaan Method dan Methodology dalam journal
+Perbedaan Method dan Methodology dalam journal  
 Journal 01 Methodology : 
 •	Artikel tersebut tidak hanya memaparkan langkah-langkah teknis atau prosedur (method) untuk melakukan deteksi dini penyakit jantung koroner menggunakan algoritma Light Gradient-Boosting Machine (LightGBM), tetapi juga membahas pendekatan yang lebih luas, termasuk pengolahan dataset yang kompleks (dengan imputasi MICE untuk menangani data yang hilang) dan penggunaan teknik seperti Borderline-SMOTE untuk menangani ketidakseimbangan kelas.
 •	Methodology di sini lebih tepat karena mencakup keseluruhan proses yang lebih kompleks, termasuk pemilihan metode dan justifikasi teoretis untuk setiap langkah yang diambil.
